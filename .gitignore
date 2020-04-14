@@ -329,3 +329,5 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 /Source/Microsoft.Teams.Apps.AskHR/wwwroot/dist/bundle.js
+Source/Microsoft.Teams.Apps.AskHR/wwwroot/Content/Thumbs.db
+Wiki/Images/Thumbs.db
