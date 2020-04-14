@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AskAnExpertPlaceholderText" xml:space="preserve">
-    <value>Escribe tu pregunta detallada aqu&iacute; (m&aacute;ximo 500 caracteres)</value>
+    <value>Escribe tu pregunta detallada aquí (máximo 500 caracteres)</value>
     <comment>Ask an expert placeholder text.</comment>
   </data>
   <data name="AskAnExpertText1" xml:space="preserve">
@@ -126,11 +126,11 @@
     <comment>Title of the ask an expert card.</comment>
   </data>
   <data name="AskAnExpertText2" xml:space="preserve">
-    <value>Si mi respuesta no es adecuada, te ofrecer&eacute; conectarte con un experto.</value>
+    <value>Si mi respuesta no es adecuada, te ofrecerá conectarte con un experto.</value>
     <comment>Helps the user in understanding there is an expert team to connect to.</comment>
   </data>
   <data name="FeedbackText1" xml:space="preserve">
-    <value>Cu&eacute;ntale a mi equipo de expertos c&oacute;mo lo hago para que me puedan mejorar.</value>
+    <value>Cuéntale a mi equipo de expertos cómo lo hago para que me puedan mejorar.</value>
     <comment>Text suggests that user is invited to share his feedback on his experience using bot.</comment>
   </data>
   <data name="FunctionCardText1" xml:space="preserve">
@@ -138,7 +138,7 @@
     <comment>Explains what bot does and possible questions.</comment>
   </data>
   <data name="FunctionCardText2" xml:space="preserve">
-    <value>Me puedes hacer preguntas escribi&eacute;ndolas en el cuadro de chat a continuaci&oacute;n. Har&eacute; mi mejor esfuerzo por responderte.</value>
+    <value>Me puedes hacer preguntas escribiéndolas en el cuadro de chat a continuación. Haré mi mejor esfuerzo por responderte.</value>
     <comment>Suggests the user to ask question.</comment>
   </data>
   <data name="ShareFeedbackButtonText" xml:space="preserve">
@@ -146,11 +146,11 @@
     <comment>Button text for share feedback show card in QnA response card.</comment>
   </data>
   <data name="DescriptionText" xml:space="preserve">
-    <value>Descripci&oacute;n</value>
+    <value>Descripción</value>
     <comment>Description text is the label of description text box.</comment>
   </data>
   <data name="FeedbackDescriptionPlaceholderText" xml:space="preserve">
-    <value>Escribe tus comentarios y detalles complementarios aqu&iacute; (m&aacute;ximo 500 caracteres)</value>
+    <value>Escribe tus comentarios y detalles complementarios aquí (máximo 500 caracteres)</value>
     <comment>Placeholder label where the user enters feedback in the text box.</comment>
   </data>
   <data name="FeedbackHeaderText" xml:space="preserve">
@@ -158,7 +158,7 @@
     <comment>Share feedback card title text- bot menu command.</comment>
   </data>
   <data name="QuestionLineText" xml:space="preserve">
-    <value>Esto es lo que encontr&eacute; para tu solicitud</value>
+    <value>Esto es lo que encontré para tu solicitud</value>
     <comment>Shows user requested question.</comment>
   </data>
   <data name="StatusFactTitle" xml:space="preserve">
@@ -178,11 +178,11 @@
     <comment>Ability to chat directly with end user from SME channel.</comment>
   </data>
   <data name="NotificationCardContent" xml:space="preserve">
-    <value>He compartido tu pregunta con los expertos. Ellos te responder&aacute;n directamente con un mensaje de chat.</value>
+    <value>He compartido tu pregunta con los expertos. Ellos te responderán directamente con un mensaje de chat.</value>
     <comment>Confirmation message to the user upon asking question to the expert.</comment>
   </data>
   <data name="NotificationCardTitleText" xml:space="preserve">
-    <value>Notificaci&oacute;n</value>
+    <value>Notificación</value>
     <comment>Confirmation card header text.</comment>
   </data>
   <data name="TeamChatHeaderText" xml:space="preserve">
@@ -190,7 +190,7 @@
     <comment>Team carousel chat card header-title of the chat card.</comment>
   </data>
   <data name="TeamChatContent" xml:space="preserve">
-    <value>Haga clic en el bot&oacute;n de chat con el usuario para iniciar un chat directo.</value>
+    <value>Haga clic en el botón de chat con el usuario para iniciar un chat directo.</value>
     <comment>Team carousel chat card content- SME team members can chat directly with the end users.</comment>
   </data>
   <data name="TeamNotificationHeaderText" xml:space="preserve">
@@ -198,7 +198,7 @@
     <comment>Team carousel function card content- title of the chat card.</comment>
   </data>
   <data name="TeamNotificationContent" xml:space="preserve">
-    <value>Puede ver en qu&eacute; necesitan ayuda los usuarios.</value>
+    <value>Puede ver en qué necesitan ayuda los usuarios.</value>
     <comment>Team carousel function card content- team can take the question from the end users through bot.</comment>
   </data>
   <data name="TeamTicketSystemHeaderText" xml:space="preserve">
@@ -214,15 +214,15 @@
     <comment>Action button which gives tour for the team on bot Functionalities.</comment>
   </data>
   <data name="WelcomeTeamCardContent" xml:space="preserve">
-    <value>Hola, soy un bot de Q&amp;A. Puedes hacerme preguntas, har&eacute; mi mejor esfuerzo por responderlas. Si no te puedo ayudar, te ofrecer&eacute; conectarte con un experto.
-Mis caracter&iacute;sticas clave son:
-• Haz una pregunta, obt&eacute;n una respuesta
+    <value>Hola, soy un bot de Q&amp;A. Puedes hacerme preguntas, haré mi mejor esfuerzo por responderlas. Si no te puedo ayudar, te ofrecer&eacute; conectarte con un experto.
+Mis características clave son:
+• Haz una pregunta, obtén una respuesta
 • Pregunta a un experto
 • Comparte tus comentarios</value>
     <comment>Welcome message when bot is added to a new team.</comment>
   </data>
   <data name="CustomMessage" xml:space="preserve">
-    <value>No pude encontrar una respuesta a tu pregunta, pero este art&iacute;culo puede ser de utilidad.</value>
+    <value>No pude encontrar una respuesta a tu pregunta, pero este artículo puede ser de utilidad.</value>
     <comment>Message when user asks random question to the bot.</comment>
   </data>
   <data name="QuestionAskedFactTitle" xml:space="preserve">
@@ -246,7 +246,7 @@ Mis caracter&iacute;sticas clave son:
     <comment>When SME team member asks bot a questions- a message appears saying that team member is supposed to install the bot in personal scope.</comment>
   </data>
   <data name="AssignStatusTitle" xml:space="preserve">
-    <value>Asigmar a m&iacute;</value>
+    <value>Asigmar a mí</value>
     <comment>Status of the user ticket- assign - for the dropdown</comment>
   </data>
   <data name="CloseStatusText" xml:space="preserve">
@@ -258,7 +258,7 @@ Mis caracter&iacute;sticas clave son:
     <comment>Text on change status button.</comment>
   </data>
   <data name="ResponseHeaderText" xml:space="preserve">
-    <value>Esto es lo que encontr&eacute;:</value>
+    <value>Esto es lo que encontré:</value>
     <comment>Response header-letting the user know that a response is generated to their request from QnA Maker.</comment>
   </data>
   <data name="ClosedFactTitle" xml:space="preserve">
@@ -270,7 +270,7 @@ Mis caracter&iacute;sticas clave son:
     <comment>Created: one of the available fact set in notification cards- created is the title for created date value.</comment>
   </data>
   <data name="ShowCardTitleText" xml:space="preserve">
-    <value>Ingresar una pregunta corta aqu&iacute; (m&aacute;ximo 50 caracteres)</value>
+    <value>Ingresar una pregunta corta aquí (máximo 50 caracteres)</value>
     <comment>Label text where users enters title for his question or feedback. </comment>
   </data>
   <data name="KBEntryFactTitle" xml:space="preserve">
@@ -338,7 +338,7 @@ Mis caracter&iacute;sticas clave son:
     <comment>Not applicable is used in scenarios like- ask an expert or share app feedback bot menu command where there is no question and answer from QnA service and to reflect the same in respective fields N/A is used.</comment>
   </data>
   <data name="AssignedTicketUserNotification" xml:space="preserve">
-    <value>Tu pregunta a sido asignada a un experto. Ellos te responder&aacute;n directamente con un mensaje de chat.</value>
+    <value>Tu pregunta a sido asignada a un experto. Ellos te responderán directamente con un mensaje de chat.</value>
     <comment>Notification text sent to the user who opened a ticket, when the ticket is assigned to an expert.</comment>
   </data>
   <data name="ClosedTicketUserNotification" xml:space="preserve">
@@ -425,11 +425,11 @@ Mis caracter&iacute;sticas clave son:
     <comment>This value represents the SME Ticket in the Unassigned status</comment>
   </data>
   <data name="AskAnExpertSubheaderText" xml:space="preserve">
-    <value>Un experto te responder&aacute; directamente con un mensaje de chat.</value>
+    <value>Un experto te responderá directamente con un mensaje de chat.</value>
     <comment>Ask en expert card subtitle text:lets the user know that SME team member can directly chat with the requester.</comment>
   </data>
   <data name="DescriptionFact" xml:space="preserve">
-    <value>Descripci&oacute;n:</value>
+    <value>Descripción:</value>
     <comment>Available factset in user notification and SME facing cards.</comment>
   </data>
   <data name="FeedbackRatingRequired" xml:space="preserve">
@@ -437,7 +437,7 @@ Mis caracter&iacute;sticas clave son:
     <comment>Feedback(Required): label for the feedback rating dropdown.</comment>
   </data>
   <data name="HelpfulRatingText" xml:space="preserve">
-    <value>&Uacute;til</value>
+    <value>Útil</value>
     <comment>Helpful: available feedback rating scale.</comment>
   </data>
   <data name="NeedsImprovementRatingText" xml:space="preserve">
@@ -457,7 +457,7 @@ Mis caracter&iacute;sticas clave son:
     <comment>Take a tour button available for the users on welcome card, through which user can take a tour on bot functionalities in personal scope. </comment>
   </data>
   <data name="TitleFact" xml:space="preserve">
-    <value>T&iacute;tulo:</value>
+    <value>Título:</value>
     <comment>Title fact is used to show the title entered by the user for his inquiry.</comment>
   </data>
   <data name="TitleRequiredText" xml:space="preserve">
@@ -465,7 +465,7 @@ Mis caracter&iacute;sticas clave son:
     <comment>Title(Required): label of the title text box.</comment>
   </data>
   <data name="NotHelpfulRatingText" xml:space="preserve">
-    <value>No es &Uacute;til</value>
+    <value>No es Útil</value>
     <comment>Unhelpful: available feedback rating scale.</comment>
   </data>
   <data name="ViewArticleButtonText" xml:space="preserve">
