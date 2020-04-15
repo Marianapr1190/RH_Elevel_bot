@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AskAnExpertPlaceholderText" xml:space="preserve">
-    <value>Escribe tu pregunta detallada aqu&#161 (m&#160ximo 500 caracteres)</value>
+    <value>Escribe tu pregunta detallada aqu&#161; (m&#160;ximo 500 caracteres)</value>
     <comment>Ask an expert placeholder text.</comment>
   </data>
   <data name="AskAnExpertText1" xml:space="preserve">
@@ -214,7 +214,7 @@
     <comment>Action button which gives tour for the team on bot Functionalities.</comment>
   </data>
   <data name="WelcomeTeamCardContent" xml:space="preserve">
-    <value>Hola, soy un bot de Q&amp;A. Puedes hacerme preguntas, hare mi mejor esfuerzo por responderlas. Si no te puedo ayudar, te ofrecere conectarte con un experto.
+    <value>Hola, soy un bot de Q&amp;A. Puedes hacerme preguntas, har&#130; mi mejor esfuerzo por responderlas. Si no te puedo ayudar, te ofrecere conectarte con un experto.
 Mis caracteristicas clave son: 
       • Haz una pregunta, obten una respuesta
       • Pregunta a un experto
