@@ -214,11 +214,11 @@
     <comment>Action button which gives tour for the team on bot Functionalities.</comment>
   </data>
   <data name="WelcomeTeamCardContent" xml:space="preserve">
-    <value>Hola, soy un bot de Q&amp;A. Puedes hacerme preguntas, har&#233; mi mejor esfuerzo por responderlas. Si no te puedo ayudar, te ofrecer&#233; conectarte con un experto.
-Mis caracter&#237;sticas clave son: 
-      • Haz una pregunta, obt&#233;n una respuesta
-      • Pregunta a un experto
-      • Comparte tus comentarios</value>
+    <value>Hola, soy tu ayudante de Recursos Humanos. Puedes hacerme preguntas, har&#233; mi mejor esfuerzo por responderlas. 
+      Me puedes preguntar por ejemplo:
+      • Prestaciones laborales
+      • Días de descanso obligatorio
+      • Pago de aguinaldo</value>
     <comment>Welcome message when bot is added to a new team.</comment>
   </data>
   <data name="CustomMessage" xml:space="preserve">
